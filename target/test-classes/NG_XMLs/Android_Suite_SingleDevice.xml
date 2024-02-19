@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Suite" thread-count="2" parallel="tests">
+	<test name="Android native app test on Android 10">
+		<parameter name="platform" value="Android 13"/>
+		<parameter name="udid" value="1396465428000D9"/>
+		<parameter name="systemPort" value="4723" />
+		<parameter name="deviceName" value="Mydevice"/>
+		<classes>
+			<!-- <class name="AndroidTestCases.AndroidNativeParallelTests" /> -->
+
+			<class name="com.Fintoo.common.bdd.runner.MobileRunner" />
+			<!--<class name="com.QOBOX.bdd.common.runner.MobileRunnerFailed" />/> -->
+
+		</classes>
+	</test>
+</suite> <!--
+Suite -->
