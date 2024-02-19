@@ -1,0 +1,2 @@
+# CureBay
+Medico domain
