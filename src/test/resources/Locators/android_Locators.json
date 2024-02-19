@@ -1,0 +1,232 @@
+{
+	"Rider": {
+		"Rider_Organisation_Name": {
+			"locatorType": "id",
+			"locatorValue": "com.shipsy.riderapp.demo:id/et_org_name"
+		},
+		"Rider_Organisation_Name_Submit": {
+			"locatorType": "id",
+			"locatorValue": "com.shipsy.riderapp.demo:id/bt_org_submit"
+		},
+		"Rider_text_input_error": {
+			"locatorType": "id",
+			"locatorValue": "com.shipsy.riderapp.demo:id/textinput_error"
+		},
+		"Rider_permission_allow_button": {
+			"locatorType": "id",
+			"locatorValue": "com.android.permissioncontroller:id/permission_allow_button"
+		},
+		"Rider_login_org_name": {
+			"locatorType": "id",
+			"locatorValue": "com.shipsy.riderapp.demo:id/tv_login_org_name"
+		},
+		"Rider_RiderDemo": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Rider Demo']"
+		},
+		"Rider_switch_widget": {
+			"locatorType": "id",
+			"locatorValue": "android:id/switch_widget"
+		},
+		"Rider_Username": {
+			"locatorType": "id",
+			"locatorValue": "com.shipsy.riderapp.demo:id/et_login_username"
+		},
+		"Rider_Password": {
+			"locatorType": "id",
+			"locatorValue": "com.shipsy.riderapp.demo:id/et_login_pass"
+		},
+		"Rider_Login_btn": {
+			"locatorType": "id",
+			"locatorValue": "com.shipsy.riderapp.demo:id/bt_login"
+		},
+		"Rider_WHILEUSINGTHEAPP_btn": {
+			"locatorType": "id",
+			"locatorValue": "com.android.permissioncontroller:id/permission_allow_foreground_only_button"
+		},
+		"Rider_Dashboard": {
+			"locatorType": "id",
+			"locatorValue": "com.shipsy.riderapp.demo:id/tv_toolbar_label"
+		},
+		"Rider_Delivery": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Delivery']"
+		},
+		"Rider_Delivery_Prepare_DRS": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Prepare DRS']"
+		},
+		"Rider_Delivery_Task_List": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Delivery Task List']"
+		},
+		"Rider_Delivery_Outstation_Scan": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Outstation Scan']"
+		},
+		"Rider_Pickup": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Pickup']"
+		},
+		"Rider_Pickup_Prepare_DRS": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Prepare PRS']"
+		},
+		"Rider_Pickup_Task_List": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Pickup Task List']"
+		},
+		"Rider_Processing": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Processing']"
+		},
+		"Rider_Processing_RTB_Bucket": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Processing']/parent::android.widget.LinearLayout/following-sibling::android.widget.RelativeLayout//android.widget.TextView[@text='RTB Bucket']"
+		},
+		"Rider_search_button": {
+			"locatorType": "id",
+			"locatorValue": "com.shipsy.riderapp.demo:id/search_button"
+		},
+		"Rider_search_text": {
+			"locatorType": "id",
+			"locatorValue": "com.shipsy.riderapp.demo:id/search_src_text"
+		},
+		"Rider_Accept_btn": {
+			"locatorType": "id",
+			"locatorValue": "com.shipsy.riderapp.demo:id/tv_prs_accept"
+		},
+		"Rider_Pending_Tasks": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Pending Tasks']"
+		},
+		"Rider_task_list_item_header_title": {
+			"locatorType": "id",
+			"locatorValue": "com.shipsy.riderapp.demo:id/tv_task_list_item_header_title"
+		},
+		"Rider_task_list_item_header_counts": {
+			"locatorType": "id",
+			"locatorValue": "com.shipsy.riderapp.demo:id/tv_task_list_item_header_counts"
+		},
+		"Rider_Pending_Tasks_Details": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Task Details']"
+		},
+		"Rider_Pending_Tasks_Details_Lists": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.LinearLayout[@resource-id=\"com.shipsy.riderapp.demo:id/rl_task_detail_scrollview_child\"]//android.widget.TextView"
+		},
+		"Rider_Consignments_detail_Lists": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup//android.widget.TextView"
+		}
+		,
+		"Rider_consumer_detail_Lists": {
+			"locatorType": "Xpath",
+			"locatorValue": "//androidx.recyclerview.widget.RecyclerView//android.view.ViewGroup//android.widget.TextView"
+		},
+		"Rider_pickup_proceed": {
+			"locatorType": "id",
+			"locatorValue": "com.shipsy.riderapp.demo:id/tv_footer_pickup_proceed"
+		},
+		"Rider_footer_failed": {
+			"locatorType": "id",
+			"locatorValue": "com.shipsy.riderapp.demo:id/tv_footer_failed"
+		},
+		"Rider_text_Pickup": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Pickup']"
+		},
+		"Rider_pickup_task_detail_consumer_name": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@resource-id=\"com.shipsy.riderapp.demo:id/tv_pickup_task_detail_consumer_name\"]"
+		},
+		"Rider_add_pickup_consignment": {
+			"locatorType": "id",
+			"locatorValue": "com.shipsy.riderapp.demo:id/fab_add_pickup_consignment"
+		},
+		"Rider_text_Add_Consignment": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Add Consignment']"
+		},
+		"Rider_pickup_scan_consignment_reference_number": {
+			"locatorType": "id",
+			"locatorValue": "com.shipsy.riderapp.demo:id/et_pickup_scan_consignment_reference_number"
+		},
+		"Rider_clicks_pickup_scan_consignment_reference_number": {
+			"locatorType": "id",
+			"locatorValue": "com.shipsy.riderapp.demo:id/iv_pickup_scan_consignment_reference_number"
+		},
+		"Rider_btn_COMPLETE_ADDING_CONSIGNMENT": {
+			"locatorType": "id",
+			"locatorValue": "com.shipsy.riderapp.demo:id/pickup_scan_consignment_done"
+		},
+		"Rider_text_COMPLETE_PICKUP": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.Button[@text='COMPLETE PICKUP']"
+		},
+		"Rider_btn_OK": {
+			"locatorType": "id",
+			"locatorValue": "com.shipsy.riderapp.demo:id/tv_okay"
+		},
+		"Rider_text_Complete_Pickup": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.Button[@text='Complete Pickup']"
+		}
+		,
+		"Rider_clicks_edit_number_of_consignment": {
+			"locatorType": "id",
+			"locatorValue": "com.shipsy.riderapp.demo:id/iv_edit_number_of_consignment"
+		}
+		,
+		"Rider_enters_edit_number_of_consignment": {
+			"locatorType": "id",
+			"locatorValue": "com.shipsy.riderapp.demo:id/et_number_of_consignment"
+		},
+		"Rider_text_Add_Attempt_Proof": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Add Attempt Proof']"
+		},
+		"Rider_text_Add_Image_of_Premise": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Add Image of Premise']"
+		},
+		"Rider_Click_To_Camera": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='Click to open camera']"
+		}
+		,
+		"Rider_Click_capture_Picture": {
+			"locatorType": "id",
+			"locatorValue": "com.shipsy.riderapp.demo:id/capturePicture"
+		},
+		"Rider_text_btn_SAVE": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.Button[@text='SAVE']"
+		},
+		"Rider_toolbar_back": {
+			"locatorType": "Xpath",
+			"locatorValue": "com.shipsy.riderapp.demo:id/iv_toolbar_back"
+		},
+		"Rider_Menu_Rider_Demo": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.ImageButton[@content-desc=\"Rider Demo\"]"
+		},
+		"Rider_btn_Logout": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text=\"Logout\"]"
+		}
+		,
+		"Rider_btn_Logout_yes": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.Button[@text='Yes']"
+		},
+		"Rider_SHIPSY": {
+			"locatorType": "Xpath",
+			"locatorValue": "//android.widget.TextView[@text='SHIPSY']"
+		}
+		
+		
+	
+	}
+}

@@ -1,0 +1,158 @@
+{
+  "Fintoo_locators": {
+  	"Fintoo_Allow_Btn" : {
+     "locatorType" : "id",
+      "locatorValue" : "com.android.permissioncontroller:id/permission_allow_button"
+    },
+    "Fintoo_Next_img" : {
+     "locatorType" : "id",
+      "locatorValue" : "com.financialhospital.admin.finh:id/btnNext"
+    },
+    "Fintoo_Enter_Email" : {
+     "locatorType" : "id",
+      "locatorValue" : "com.financialhospital.admin.finh:id/etPhoneNumberOrEmail"
+    },
+    "Fintoo_Proceed_btn" : {
+     "locatorType" : "id",
+      "locatorValue" : "com.financialhospital.admin.finh:id/btnProceed"
+    },
+     "Fintoo_Otp1" : {
+     "locatorType" : "id",
+      "locatorValue" : "com.financialhospital.admin.finh:id/otp_one"
+    },
+     "Fintoo_Otp2" : {
+     "locatorType" : "id",
+      "locatorValue" : "com.financialhospital.admin.finh:id/otp_two"
+    }, 
+    "Fintoo_Otp3" : {
+     "locatorType" : "id",
+      "locatorValue" : "com.financialhospital.admin.finh:id/otp_three"
+    },
+     "Fintoo_Otp4" : {
+     "locatorType" : "id",
+      "locatorValue" : "com.financialhospital.admin.finh:id/otp_four"
+    },
+    "Fintoo_BiometricAlert" : {
+     "locatorType" : "id",
+      "locatorValue" : "com.financialhospital.admin.finh:id/tvButtonNegative"
+    },
+     "Fintoo_VerAdvisoryPage" : {
+     "locatorType" : "XPath",
+      "locatorValue" : "//android.widget.TextView[@text='Financial Planning']"
+    },
+     "Fintoo_VerRoboAdvPage" : {
+     "locatorType" : "XPath",
+      "locatorValue" : "//android.widget.TextView[@text='ROBO ADVISORY']"
+    },
+    "Fintoo_VerAssistanceAdvPage" : {
+     "locatorType" : "id",
+      "locatorValue" : "com.financialhospital.admin.finh:id/tvPlanName"
+    },
+    "Fintoo_GetStarted" : {
+     "locatorType" : "id",
+      "locatorValue" : "com.financialhospital.admin.finh:id/btnStartPlan"
+    },
+    "Fintoo_FilterIcon":{
+     "locatorType" : "id",
+      "locatorValue" : "com.financialhospital.admin.finh:id/ivFilter"
+    },
+    "Fintoo_Delhi":{
+     "locatorType" : "XPath",
+      "locatorValue" : "//android.widget.CheckBox[@text='Delhi']"
+    },
+     "Fintoo_Mumbai":{
+     "locatorType" : "XPath",
+      "locatorValue" : "//android.widget.CheckBox[@text='Mumbai']"
+    },
+     "Fintoo_MumbaiFiveStarList":{
+     "locatorType" : "XPath",
+      "locatorValue" : "//android.widget.TextView[@resource-id='com.financialhospital.admin.finh:id/tvExpertName']"
+    },
+    "Fintoo_StarRating":{
+     "locatorType" : "id",
+      "locatorValue" : "com.financialhospital.admin.finh:id/tvExpertStarRating"
+    },
+     "Fintoo_5StarRating":{
+     "locatorType" : "XPath",
+      "locatorValue" : "//android.widget.CheckBox[@text='5 Star']"
+    },
+     "Fintoo_Apply":{
+     "locatorType" : "XPath",
+      "locatorValue" : "//android.widget.TextView[@text='Apply']"
+    },
+     "Fintoo_5StarPersonVer":{
+     "locatorType" : "XPath",
+      "locatorValue" : "//android.widget.TextView[@text='Navneet Singh']"
+    },
+    "Fintoo_5StarPersonMumbai":{
+     "locatorType" : "XPath",
+      "locatorValue" : "//android.widget.TextView[@text='Shama']"
+    },
+     "Fintoo_4StarRating":{
+     "locatorType" : "XPath",
+      "locatorValue" : "//android.widget.CheckBox[@text='4 Star']"
+    },
+    "Fintoo_4StarPersonMumbai":{
+     "locatorType" : "XPath",
+      "locatorValue" : "//android.widget.TextView[@text='Yash Jain']"
+    },
+     "Fintoo_BookApp":{
+     "locatorType" : "id",
+      "locatorValue" : "com.financialhospital.admin.finh:id/btnBookAppointment"
+    },
+    "Fintoo_VerSelectADay":{
+     "locatorType" : "XPath",
+      "locatorValue" : "//android.widget.TextView[@text='Select a Day']"
+    },
+    "Fintoo_SelectDAte":{
+     "locatorType" : "XPath",
+      "locatorValue" : "//android.widget.Button[@text=\"Thursday, August 24 - Times available\"]"
+    },
+    "Fintoo_VerifySelectTime":{
+     "locatorType" : "XPath",
+      "locatorValue" : "//android.widget.TextView[@text='Select a Time']"
+    },
+    "Fintoo_SelectTime":{
+     "locatorType" : "XPath",
+      "locatorValue" : "//android.widget.Button[@text=\"11:15am\"]"
+    },
+     "Fintoo_SelectTimetwo":{
+     "locatorType" : "XPath",
+      "locatorValue" : "//android.widget.Button[@text=\"12:00am\"]"
+    },
+    "Fintoo_TimeNextBtn":{
+     "locatorType" : "XPath",
+      "locatorValue" : "//android.widget.Button[@text=\"Next 11:15am\"]"
+    },
+     "Fintoo_TimeTwoNextBtn":{
+     "locatorType" : "XPath",
+      "locatorValue" : "//android.widget.Button[@text=\"Next 12:00am\"]"
+    },
+    "Fintoo_verconsultation":{
+     "locatorType" : "XPath",
+      "locatorValue" : "//android.widget.TextView[@text='15 MINUTES CONSULTATION']"
+    },
+    "Fintoo_Incomeslab1Crore":{
+     "locatorType" : "XPath",
+      "locatorValue" : "//android.widget.RadioButton[@text='More Than 1 Cr']"
+    },
+    "Fintoo_ScheduleEvent":{
+     "locatorType" : "XPath",
+      "locatorValue" : "//android.widget.Button[@text='Schedule Event']"
+    },
+    "Fintoo_verThankYou":{
+     "locatorType" : "XPath",
+      "locatorValue" : "//android.widget.TextView[@text=\"Thank You For Choosing Fintoo !\"]"
+    },
+     "Fintoo_ClosePopup":{
+     "locatorType" : "id",
+      "locatorValue" : "com.financialhospital.admin.finh:id/ivClose"
+    },
+     "Fintoo_Navigateup":{
+     "locatorType" : "id",
+      "locatorValue" : "com.financialhospital.admin.finh:id/back_arrow"
+    },
+    
+    
+    }
+    }
